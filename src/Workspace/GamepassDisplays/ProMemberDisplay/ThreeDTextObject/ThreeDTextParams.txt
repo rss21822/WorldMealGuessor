@@ -1,0 +1,1 @@
+{"fontId":"LuckiestGuy","up":3,"color":"1.000000,0.000000,0.000000","text":"Pro Member","leading":0,"thickness":0.3,"zAlign":1,"partMode":0,"scale":1,"right":1,"material":16,"tracking":0,"xAlign":1}

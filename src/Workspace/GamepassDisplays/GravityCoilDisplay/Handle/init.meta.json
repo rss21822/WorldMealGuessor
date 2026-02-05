@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-119.5783, 4846.6519, -1269.4755, 0, 0.2588, 0.9659, 0, 0.9659, -0.2588, -1, 0, 0],
+    "Color": [205, 205, 205],
+    "FormFactor": "Plate",
+    "Size": [0.9607, 1.1529, 1.9214],
+    "TopSurface": "Smooth"
+  }
+}

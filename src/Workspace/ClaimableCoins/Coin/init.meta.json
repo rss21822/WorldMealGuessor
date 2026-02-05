@@ -1,0 +1,9 @@
+{
+  "className": "Model",
+  "properties": {
+    "Attributes": {
+      "isClaimed": false
+    },
+    "Scale": 1.0539
+  }
+}

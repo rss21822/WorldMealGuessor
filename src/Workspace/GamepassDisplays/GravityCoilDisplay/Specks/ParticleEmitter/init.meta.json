@@ -1,0 +1,39 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Lifetime": [4.25, 4.25],
+    "LightEmission": 1,
+    "Rate": 2,
+    "RotSpeed": [10, 20],
+    "Rotation": [0, 135],
+    "Size": [{
+        "time": 0.0,
+        "value": 6.2003,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 6.2003,
+        "envelope": 0.0
+      }],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://173642823",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.0515,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.9276,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 3
+  }
+}

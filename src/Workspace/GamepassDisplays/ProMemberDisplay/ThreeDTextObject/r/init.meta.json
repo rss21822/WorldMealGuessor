@@ -1,0 +1,14 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [-116.7104, 4836.2764, -1244.2078, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "Color": [255, 0, 0],
+    "InitialSize": [0.4276, 0.5276, 0.05],
+    "Material": "SmoothPlastic",
+    "MeshContent": "rbxassetid://3295448540",
+    "RenderFidelity": "Precise",
+    "Size": [0.4276, 0.5276, 0.3]
+  }
+}

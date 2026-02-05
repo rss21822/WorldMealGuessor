@@ -1,0 +1,1 @@
+{"fontId":"InterExtraBold","up":0,"color":"1.000000,0.755000,0.020000","text":"Highest Level","leading":0,"thickness":0.4,"zAlign":1,"partMode":0,"scale":2,"right":2,"material":16,"tracking":0,"xAlign":1}

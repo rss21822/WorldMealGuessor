@@ -1,0 +1,21 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/SourceSansPro.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.1126, 0.0], [0.1536, 0.0]],
+    "Size": [[0.0, 43.0], [0.0, 48.0]],
+    "TextColor3": [0, 0, 0],
+    "TextSize": 14,
+    "TextTransparency": 1,
+    "ZIndex": 3
+  }
+}

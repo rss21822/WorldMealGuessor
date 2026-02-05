@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.1712, 0.0], [1.02, 0.0]],
+    "Size": [[0.6565, 0.0], [0.5, 0.0]],
+    "Text": "Noone has won the game!",
+    "TextColor3": [0.9961, 0.7569, 0.0157],
+    "TextSize": 53,
+    "Visible": false
+  }
+}

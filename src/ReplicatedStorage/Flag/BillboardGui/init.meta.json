@@ -1,0 +1,14 @@
+{
+  "className": "BillboardGui",
+  "properties": {
+    "Active": true,
+    "AlwaysOnTop": true,
+    "ClipsDescendants": true,
+    "DistanceUpperLimit": -2.761,
+    "ExtentsOffset": [0, 8, 0],
+    "LightInfluence": 1,
+    "Size": [[4.0, 0.0], [1.0, 0.0]],
+    "StudsOffset": [0, -2.5, 0],
+    "ZIndexBehavior": "Sibling"
+  }
+}

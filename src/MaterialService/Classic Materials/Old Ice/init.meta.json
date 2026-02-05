@@ -1,0 +1,11 @@
+{
+  "className": "MaterialVariant",
+  "properties": {
+    "BaseMaterial": "Ice",
+    "ColorMapContent": "rbxassetid://8411042605",
+    "MetalnessMapContent": "rbxassetid://8411044561",
+    "NormalMapContent": "rbxassetid://8411045553",
+    "RoughnessMapContent": "rbxassetid://8411046474",
+    "StudsPerTile": 5
+  }
+}

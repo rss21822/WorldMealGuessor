@@ -1,0 +1,33 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [{
+        "time": 0.0,
+        "color": [1.0, 0.3333, 0.0]
+      }, {
+        "time": 0.5141,
+        "color": [1.0, 0.0, 0.0]
+      }, {
+        "time": 1.0,
+        "color": [1.0, 0.6667, 0.0]
+      }],
+    "Lifetime": [0.6, 0.8],
+    "LightEmission": 0.5,
+    "LightInfluence": 1,
+    "Rate": 250,
+    "Size": [{
+        "time": 0.0,
+        "value": 0.419,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.219,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.328,
+        "envelope": 0.0
+      }],
+    "Texture": "http://www.roblox.com/asset/?id=3113323162"
+  }
+}

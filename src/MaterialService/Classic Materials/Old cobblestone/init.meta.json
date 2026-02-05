@@ -1,0 +1,9 @@
+{
+  "className": "MaterialVariant",
+  "properties": {
+    "ColorMapContent": "rbxassetid://10442530307",
+    "MetalnessMapContent": "rbxassetid://10442530307",
+    "NormalMapContent": "rbxassetid://10442530307",
+    "RoughnessMapContent": "rbxassetid://10442530307"
+  }
+}

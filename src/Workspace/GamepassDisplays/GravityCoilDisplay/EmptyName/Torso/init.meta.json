@@ -1,0 +1,16 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [-120.0701, 4846.4336, -1270.9366, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "Color": [128, 187, 219],
+    "FormFactor": "Symmetric",
+    "LeftParamA": 0,
+    "LeftParamB": 0,
+    "LeftSurface": "Weld",
+    "RightParamA": 0,
+    "RightParamB": 0,
+    "RightSurface": "Weld",
+    "Size": [1.9214, 1.9214, 0.9607]
+  }
+}

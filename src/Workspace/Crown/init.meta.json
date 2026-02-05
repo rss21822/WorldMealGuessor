@@ -1,0 +1,14 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [-120.1616, 4841.4365, -1245.7971, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "DoubleSided": true,
+    "InitialSize": [0.6992, 0.4456, 0.6993],
+    "Material": "Metal",
+    "MeshContent": "rbxassetid://4586627543",
+    "RenderFidelity": "Precise",
+    "RotVelocity": [1, 1, 1],
+    "Size": [1.6029, 0.8769, 1.606],
+    "TextureContent": "rbxassetid://4586154582"
+  }
+}

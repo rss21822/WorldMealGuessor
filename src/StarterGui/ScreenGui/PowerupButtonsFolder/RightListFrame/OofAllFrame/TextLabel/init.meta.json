@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[-0.3955, 0.0], [0.6049, 0.0]],
+    "Size": [[1.631, 0.0], [0.3851, 0.0]],
+    "Text": "Oof all",
+    "TextColor3": [1, 1, 1],
+    "TextScaled": true,
+    "TextSize": 49,
+    "TextWrapped": true
+  }
+}

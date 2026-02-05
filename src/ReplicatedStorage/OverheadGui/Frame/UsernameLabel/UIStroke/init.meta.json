@@ -1,0 +1,8 @@
+{
+  "className": "UIStroke",
+  "properties": {
+    "Color": [0.2627, 0.2627, 0.2627],
+    "LineJoinMode": "Bevel",
+    "Thickness": 2.7
+  }
+}

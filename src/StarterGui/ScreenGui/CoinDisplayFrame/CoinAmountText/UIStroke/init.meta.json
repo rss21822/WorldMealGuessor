@@ -1,0 +1,8 @@
+{
+  "className": "UIStroke",
+  "properties": {
+    "Color": [0.0157, 0.0157, 0.2078],
+    "LineJoinMode": "Miter",
+    "Thickness": 4
+  }
+}

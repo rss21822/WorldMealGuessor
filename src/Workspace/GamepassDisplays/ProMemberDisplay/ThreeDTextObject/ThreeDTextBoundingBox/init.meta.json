@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [-116.7104, 4836.2588, -1245.7968, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "CanCollide": false,
+    "Size": [4.4819, 0.5627, 0.3],
+    "Tags": ["ThreeDTextObjectBoundingBox"],
+    "Transparency": 1
+  }
+}

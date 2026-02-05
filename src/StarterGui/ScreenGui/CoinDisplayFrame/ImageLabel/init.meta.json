@@ -1,0 +1,12 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "BorderColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "ImageContent": "rbxassetid://85041715325516",
+    "Position": [[-0.0624, 0.0], [-0.3132, 0.0]],
+    "Size": [[0.5105, 0.0], [1.6246, 0.0]]
+  }
+}
