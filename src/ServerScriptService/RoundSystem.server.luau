@@ -286,14 +286,19 @@ local function RunGame()
 		
 		UpdateTVDisplay(true, randomDecal)
 		
-		
-		
-		
-		for i = ROUND_TIME, 1, -1 do
+		local quizTextValue = randomDecal:FindFirstChild("QuizText")
+		local quizText = ""
+		if quizTextValue and quizTextValue:IsA("StringValue") then
+			quizText = quizTextValue.Value
+		end
 
-			
-			UpdateUITimerValueRE:FireAllClients("Place your pin: "..tostring(i))
-			
+		for i = ROUND_TIME, 1, -1 do
+			if quizText ~= "" then
+				UpdateUITimerValueRE:FireAllClients(quizText.." | Place your pin: "..tostring(i))
+			else
+				UpdateUITimerValueRE:FireAllClients("Place your pin: "..tostring(i))
+			end
+
 			task.wait(1)
 
 		end
